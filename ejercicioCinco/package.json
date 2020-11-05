@@ -1,0 +1,14 @@
+{
+  "name": "enrutamientobasico",
+  "version": "1.0.0",
+  "description": "vere como hacer el enrutamiento basico",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcela ortega",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

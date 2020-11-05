@@ -1,0 +1,14 @@
+{
+  "name": "tres",
+  "version": "1.0.0",
+  "description": "esta es para pobar los modulos externos, como por ejemplo moment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcela ortega",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}

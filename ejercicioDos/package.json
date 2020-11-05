@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio",
+  "version": "1.0.0",
+  "description": "este ejercicio es solo para ver como inicia npm en el sistema, y creo una carpeta packagejson",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "auditar":"npm audit && node app.js"
+  },
+  "author": "marcela ortega",
+  "license": "ISC"
+}

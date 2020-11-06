@@ -1,0 +1,11 @@
+{
+  "name": "lecturasincronica",
+  "version": "1.0.0",
+  "description": "aqui mostraremos el uso de file sistem sincornico",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcela ortega",
+  "license": "ISC"
+}

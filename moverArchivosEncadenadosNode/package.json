@@ -1,0 +1,11 @@
+{
+  "name": "moverarchivosencadenadosnode",
+  "version": "1.0.0",
+  "description": "vamos a remover el archivo que esta en la carpeta documento, y luego lo llevaremos a la otra carpeta, hay dos procesos, uno es de copiar y el otro es de eliminar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marce ortega",
+  "license": "ISC"
+}
